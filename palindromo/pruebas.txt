@@ -1,3 +1,3 @@
-si=arenera
-si=oso
-no=tamaño
+si;arenera
+si;oso
+no;tamaño
