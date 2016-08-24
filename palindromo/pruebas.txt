@@ -1,0 +1,3 @@
+si=arenera
+si=oso
+no=tamaño
